@@ -31,7 +31,7 @@
   <p>
     When enabled, this feature will auto-organize files based on a user-defined template. Due to stability issues the
     feature has been turned off by default. For more information, please see the
-    <a class="underline" href="https://immich.app/docs/administration/storage-template">documentation</a>.
+    <a class="underline" href="https://immich.app/docs/administration/storage-template" target="_blank" rel="noreferrer">documentation</a>.
   </p>
 
   {#if config && $user}
